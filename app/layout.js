@@ -12,7 +12,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: 'Foorti Courier ',
+  title: 'ABC Courier ',
   description: 'The dashboard interface',
 };
 
