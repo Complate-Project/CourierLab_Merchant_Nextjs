@@ -431,7 +431,7 @@ const ParcelModal = ({ isOpen, onClose, parcel }) => {
 
         {/* Footer */}
         <div className="bg-gray-100 p-4 rounded-b-xl text-center text-sm text-gray-500">
-          Foorti Courier Service - {new Date().getFullYear()}
+          ABC Courier Service - {new Date().getFullYear()}
         </div>
       </div>
     </div>,
